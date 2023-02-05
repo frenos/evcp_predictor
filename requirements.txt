@@ -1,0 +1,9 @@
+pandas
+geopandas
+jupyter
+jupyterthemes
+requests
+shapely
+folium
+mapclassify
+osm2geojson
